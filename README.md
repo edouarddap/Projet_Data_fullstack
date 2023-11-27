@@ -12,6 +12,7 @@ Project Steam's videogames platform
 
 ### 4-MACHINE LEARNING SUPERVISEE
 Conversion rate 
+
 Walmart : predict weekly sales 
 
 ### 5-MACHINE LEARNING NON-SUPERVISEE
