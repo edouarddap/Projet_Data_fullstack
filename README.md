@@ -1,24 +1,24 @@
 # Projets_Data_fullstack
 
 
-### DATA VISUALISATION 
+## DATA VISUALISATION 
 1 Project speed dating 
 
-### API & WEB SCRAPPING
+## API & WEB SCRAPPING
 2 Project Plan your trip with Kayak 
 
-### BIG DATA
+## BIG DATA
 3 Project Steam's videogames platform 
 
-### MACHINE LEARNING SUPERVISEE
+## MACHINE LEARNING SUPERVISEE
 4 Conversion rate 
 5 Walmart : predict weekly sales 
 
-### MACHINE LEARNING NON-SUPERVISEE
+## MACHINE LEARNING NON-SUPERVISEE
 6 Uber pick up
 
-### DEEPLEARNING 
+## DEEPLEARNING 
 7 AT&T Spam Detector
 
-### DEPLOIMENT 
+## DEPLOIMENT 
 8 Getaround Analysis
