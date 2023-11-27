@@ -10,15 +10,15 @@ Project Plan your trip with Kayak
 ### 3-BIG DATA
 Project Steam's videogames platform 
 
-### MACHINE LEARNING SUPERVISEE
-4-Conversion rate 
-5-Walmart : predict weekly sales 
+### 4-MACHINE LEARNING SUPERVISEE
+Conversion rate 
+Walmart : predict weekly sales 
 
-### 6-MACHINE LEARNING NON-SUPERVISEE
+### 5-MACHINE LEARNING NON-SUPERVISEE
 Uber pick up
 
-### 7-DEEPLEARNING 
+### 6-DEEPLEARNING 
 AT&T Spam Detector
 
-### 8-DEPLOIMENT 
+### 7-DEPLOIMENT 
 Getaround Analysis
