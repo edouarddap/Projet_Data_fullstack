@@ -1,7 +1,7 @@
 
-[GitHub Pages](https://www.jedha.co/formations/formation-data-scientist)
+[Jedha website](https://www.jedha.co/formations/formation-data-scientist)
 
-# Projets_Data_fullstack
+# Data projects in the Jedha Fullstack course
 
 
 ### 1-DATA VISUALISATION 
