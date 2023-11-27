@@ -4,8 +4,10 @@
 ### DATA VISUALISATION 
 1 Project speed dating 
 
+### API & WEB SCRAPPING
 2 Project Plan your trip with Kayak 
 
+### BIG DATA
 3 Project Steam's videogames platform 
 
 4 Conversion rate 
